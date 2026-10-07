@@ -1,0 +1,33 @@
+# Minesquare Launcher Updates
+
+This repository serves exclusively as an **update repository for the Minesquare Launcher**.
+
+The files contained within are used internally by the launcher during the update process and are not intended for direct use by end users.
+
+## Important Notice
+
+**Please do not download, install, or otherwise use files from this repository manually.**
+
+The contents of this repository may:
+
+* be incomplete or intended solely for the launcher's update mechanism;
+* depend upon other files or components within the update system;
+* correspond to a particular launcher version or release;
+* be modified, replaced, or removed without prior notice.
+
+If you are using the Minesquare Launcher, all updates should be obtained **directly through the launcher itself**.
+
+## Purpose of This Repository
+
+This repository is used by the launcher's update system to:
+
+* determine whether a newer launcher version is available;
+* retrieve the files required for an update;
+* deploy launcher updates;
+* maintain the files necessary for automated distribution.
+
+### This is not an installation repository.
+
+There is no need to download individual files from this repository in order to use the Minesquare Launcher.
+
+If you encounter an issue with the launcher or its update process, please use the launcher itself to perform the update rather than downloading files from this repository manually.
